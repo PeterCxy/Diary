@@ -1,0 +1,2 @@
+# Diary
+Just my diary.
